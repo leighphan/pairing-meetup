@@ -31,7 +31,15 @@ Extra-long pairing time:
 ## Participants & projects:
 - Add yourself to this list: https://github.com/welcome-to-open-source/atlanta/issues/1
 
-## Important questions: 
-- **Boba.js** - @leighphan @kangashley and other OC locals, please recommend us some walkable fun places around the area. Maybe with a map!? 
+
+- **Boba.js** - 
+Here is a map of boba & snack spots in Downtown Fullerton for Hacktoberfest!
+http://bl.ocks.org/anonymous/raw/66dfbc24c53c166e4f7fbdfce3795a96/
+
 - Accessibility:
+All entrances of Pro Desk Space and nearby are wheelchair accessible.
+
+## Important questions: 
+Accessibility: Prepare and address any hearing- and visual-related accessibility concerns.
+
 - [Code of Conduct](http://www.fullstack.la/code-of-conduct)
